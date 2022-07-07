@@ -11,3 +11,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-06-27** `[008]`: chore: add Windows execution runner stub
 - **2022-06-30** `[009]`: docs: add initial system overview to README
 - **2022-07-04** `[010]`: docs: add memory allocation and performance invariant targets
+- **2022-07-07** `[011]`: feat(schema): declare project version manifest
