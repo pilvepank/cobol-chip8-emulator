@@ -1,0 +1,4 @@
+*> Common Status Codes
+ 01 STATUS-CODES.
+    05 STAT-OK PIC X(02) VALUE '00'.
+    05 STAT-ERR PIC X(02) VALUE '99'.

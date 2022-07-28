@@ -17,3 +17,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-07-18** `[014]`: chore: add academic license header
 - **2022-07-21** `[015]`: docs: create changelog tracking ledger
 - **2022-07-25** `[016]`: docs: add directory layout conventions
+- **2022-07-28** `[017]`: feat(schema): declare common return status codes
