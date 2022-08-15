@@ -22,3 +22,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-08-04** `[019]`: chore: tag v0.1.0-alpha architecture milestone
 - **2022-08-08** `[020]`: Merge pull request #1 from pilvepank/init-architecture
 - **2022-08-11** `[021]`: feat(schema): scaffold CHIP8-CONFIG.cpy record layout and header fields
+- **2022-08-15** `[022]`: feat(schema): add secondary payload fields and attributes to CHIP8-CONFIG.cpy
