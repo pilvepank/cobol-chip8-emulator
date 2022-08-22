@@ -24,3 +24,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-08-11** `[021]`: feat(schema): scaffold CHIP8-CONFIG.cpy record layout and header fields
 - **2022-08-15** `[022]`: feat(schema): add secondary payload fields and attributes to CHIP8-CONFIG.cpy
 - **2022-08-18** `[023]`: refactor(schema): optimize numeric types using COMP-5 / COMP-3 in CHIP8-CONFIG.cpy
+- **2022-08-22** `[024]`: feat(schema): declare 88-level condition names and validation states in CHIP8-CONFIG.cpy
