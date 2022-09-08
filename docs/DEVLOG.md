@@ -29,3 +29,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-08-29** `[026]`: Merge pull request #6 from pilvepank/schema-chip8-config-cpy
 - **2022-09-01** `[027]`: feat(schema): scaffold CHIP8-FONT.cpy record layout and header fields
 - **2022-09-05** `[028]`: feat(schema): add secondary payload fields and attributes to CHIP8-FONT.cpy
+- **2022-09-08** `[029]`: refactor(schema): optimize numeric types using COMP-5 / COMP-3 in CHIP8-FONT.cpy
