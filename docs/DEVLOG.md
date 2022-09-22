@@ -33,3 +33,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-09-12** `[030]`: feat(schema): declare 88-level condition names and validation states in CHIP8-FONT.cpy
 - **2022-09-15** `[031]`: docs(schema): document byte offsets and alignment boundaries for CHIP8-FONT.cpy
 - **2022-09-19** `[032]`: Merge pull request #8 from pilvepank/schema-chip8-font-cpy
+- **2022-09-22** `[033]`: feat(chip8): scaffold chip8_core.cbl identification and environment division
