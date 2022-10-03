@@ -36,3 +36,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-09-22** `[033]`: feat(chip8): scaffold chip8_core.cbl identification and environment division
 - **2022-09-26** `[034]`: feat(chip8): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
 - **2022-09-30** `[035]`: feat(chip8): declare working-storage state buffers and accumulator registers
+- **2022-10-03** `[036]`: feat(chip8): declare internal lookup tables and binary index pointers
