@@ -37,3 +37,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-09-26** `[034]`: feat(chip8): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
 - **2022-09-30** `[035]`: feat(chip8): declare working-storage state buffers and accumulator registers
 - **2022-10-03** `[036]`: feat(chip8): declare internal lookup tables and binary index pointers
+- **2022-10-07** `[037]`: feat(chip8): implement 0000-MAIN entry point and dispatch control loop
