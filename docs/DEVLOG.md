@@ -39,3 +39,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-10-03** `[036]`: feat(chip8): declare internal lookup tables and binary index pointers
 - **2022-10-07** `[037]`: feat(chip8): implement 0000-MAIN entry point and dispatch control loop
 - **2022-10-10** `[038]`: feat(chip8): implement 1000-INITIALIZE memory zeroing and state reset
+- **2022-10-14** `[039]`: feat(chip8): implement 2000-VALIDATE parameter boundary checking
