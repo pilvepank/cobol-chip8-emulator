@@ -45,3 +45,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-10-24** `[042]`: feat(chip8): implement secondary state transition paragraph
 - **2022-10-28** `[043]`: feat(chip8): implement queue eviction and index compaction logic
 - **2022-10-31** `[044]`: refactor(chip8): replace sequential search with binary search
+- **2022-11-04** `[045]`: fix(chip8): correct off-by-one boundary underflow in index calculation
