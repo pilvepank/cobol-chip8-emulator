@@ -48,3 +48,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-11-04** `[045]`: fix(chip8): correct off-by-one boundary underflow in index calculation
 - **2022-11-07** `[046]`: Merge pull request #10 from pilvepank/fix-boundary-underflow
 - **2022-11-11** `[047]`: feat(chip8): implement state serialization and snapshot persistence
+- **2022-11-14** `[048]`: feat(chip8): implement state reconstruction and crash recovery loader
