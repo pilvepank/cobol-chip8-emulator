@@ -51,3 +51,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-11-14** `[048]`: feat(chip8): implement state reconstruction and crash recovery loader
 - **2022-11-18** `[049]`: feat(chip8): implement ASCII diagnostic monitoring and display formatter
 - **2022-11-21** `[050]`: perf(chip8): eliminate intermediate arithmetic variables to reduce register spill
+- **2022-11-25** `[051]`: refactor(chip8): standardize paragraph naming and PERFORM THRU boundaries
