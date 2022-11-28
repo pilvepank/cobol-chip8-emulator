@@ -52,3 +52,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-11-18** `[049]`: feat(chip8): implement ASCII diagnostic monitoring and display formatter
 - **2022-11-21** `[050]`: perf(chip8): eliminate intermediate arithmetic variables to reduce register spill
 - **2022-11-25** `[051]`: refactor(chip8): standardize paragraph naming and PERFORM THRU boundaries
+- **2022-11-28** `[052]`: fix(chip8): handle zero-quantity edge case without state corruption
