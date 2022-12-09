@@ -55,3 +55,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-11-28** `[052]`: fix(chip8): handle zero-quantity edge case without state corruption
 - **2022-12-02** `[053]`: Merge pull request #10 from pilvepank/fix-zero-qty
 - **2022-12-05** `[054]`: feat(chip8): add audit trail event logging and transaction counter
+- **2022-12-09** `[055]`: docs(chip8): document engine execution lifecycle in docs/SPECIFICATION.md
