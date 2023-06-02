@@ -105,3 +105,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-05-22** `[102]`: test(emulator): implement ASSERT-EQUAL fixed-point numeric invariant check
 - **2023-05-26** `[103]`: test(emulator): add test scenario 1 - nominal valid execution path
 - **2023-05-30** `[104]`: test(emulator): add test scenario 2 - maximum capacity boundary test
+- **2023-06-02** `[105]`: test(emulator): add test scenario 3 - zero and negative input rejection
