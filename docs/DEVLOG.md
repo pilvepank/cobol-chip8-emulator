@@ -111,3 +111,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-06-13** `[108]`: test(emulator): format summary table and pass/fail assertion reporter
 - **2023-06-16** `[109]`: fix(test): correct expected test returncode assertion condition
 - **2023-06-20** `[110]`: Merge pull request #33 from pilvepank/test-suite
+- **2023-06-23** `[111]`: build: configure automated test target in Makefile
