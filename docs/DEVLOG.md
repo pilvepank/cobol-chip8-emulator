@@ -114,3 +114,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-06-23** `[111]`: build: configure automated test target in Makefile
 - **2023-06-27** `[112]`: chore: tag v0.9.0 test-hardened milestone
 - **2023-06-30** `[113]`: test(coverage): expand assertion coverage for edge case condition #12
+- **2023-07-04** `[114]`: test(coverage): expand assertion coverage for edge case condition #13
