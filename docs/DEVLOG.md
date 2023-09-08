@@ -133,3 +133,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-08-29** `[130]`: test(coverage): expand assertion coverage for edge case condition #29
 - **2023-09-01** `[131]`: feat(chip8_disassembler): declare copybook schema DISASM-TABLES.cpy
 - **2023-09-05** `[132]`: feat(chip8_disassembler): add validation bounds and status condition names to DISASM-TABLES.cpy
+- **2023-09-08** `[133]`: feat(chip8_disassembler): scaffold chip8_disassembler.cbl subprogram interface
