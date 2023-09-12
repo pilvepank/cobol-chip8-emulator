@@ -134,3 +134,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-09-01** `[131]`: feat(chip8_disassembler): declare copybook schema DISASM-TABLES.cpy
 - **2023-09-05** `[132]`: feat(chip8_disassembler): add validation bounds and status condition names to DISASM-TABLES.cpy
 - **2023-09-08** `[133]`: feat(chip8_disassembler): scaffold chip8_disassembler.cbl subprogram interface
+- **2023-09-12** `[134]`: feat(chip8_disassembler): implement calculation logic and state transitions in chip8_disassembler.cbl
