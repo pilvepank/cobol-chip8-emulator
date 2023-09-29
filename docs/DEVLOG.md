@@ -139,3 +139,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-09-19** `[136]`: test(chip8_disassembler): establish automated unit test suite in chip8_disasm_test.cbl
 - **2023-09-22** `[137]`: test(chip8_disassembler): achieve 100% test assertion pass rate for chip8_disassembler
 - **2023-09-26** `[138]`: refactor(chip8_disassembler): optimize memory layout and eliminate redundant PERFORM calls
+- **2023-09-29** `[139]`: docs(chip8_disassembler): document submodule architecture and usage in docs/SUBMODULES.md
