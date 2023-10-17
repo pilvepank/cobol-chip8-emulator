@@ -144,3 +144,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-10-06** `[141]`: feat(chip8_schip_ext): declare copybook schema SCHIP-CONFIG.cpy
 - **2023-10-10** `[142]`: feat(chip8_schip_ext): add validation bounds and status condition names to SCHIP-CONFIG.cpy
 - **2023-10-13** `[143]`: feat(chip8_schip_ext): scaffold chip8_schip_ext.cbl subprogram interface
+- **2023-10-17** `[144]`: feat(chip8_schip_ext): implement calculation logic and state transitions in chip8_schip_ext.cbl
