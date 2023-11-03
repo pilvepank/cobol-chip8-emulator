@@ -149,3 +149,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-10-24** `[146]`: test(chip8_schip_ext): establish automated unit test suite in chip8_schip_test.cbl
 - **2023-10-27** `[147]`: test(chip8_schip_ext): achieve 100% test assertion pass rate for chip8_schip_ext
 - **2023-10-31** `[148]`: refactor(chip8_schip_ext): optimize memory layout and eliminate redundant PERFORM calls
+- **2023-11-03** `[149]`: docs(chip8_schip_ext): document submodule architecture and usage in docs/SUBMODULES.md
