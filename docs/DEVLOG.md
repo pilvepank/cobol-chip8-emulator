@@ -168,3 +168,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-12-29** `[165]`: refactor(subsystems): tighten linkage section parameter validations (step 34)
 - **2024-01-02** `[166]`: feat(chip8_timer_audio): declare copybook schema DEBUG-STATE.cpy
 - **2024-01-05** `[167]`: feat(chip8_timer_audio): implement chip8_timer_audio.cbl operational routines
+- **2024-01-09** `[168]`: test(chip8_timer_audio): add automated unit tests in chip8_debug_test.cbl
