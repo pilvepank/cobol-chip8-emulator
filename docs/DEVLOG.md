@@ -172,3 +172,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-01-12** `[169]`: Merge pull request #55 from pilvepank/feat-chip8_timer_audio
 - **2024-01-16** `[170]`: feat(chip8_debugger): declare copybook schema ASM-TABLES.cpy
 - **2024-01-19** `[171]`: feat(chip8_debugger): implement chip8_debugger.cbl operational routines
+- **2024-01-23** `[172]`: test(chip8_debugger): add automated unit tests in chip8_asm_test.cbl
