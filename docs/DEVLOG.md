@@ -176,3 +176,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-01-27** `[173]`: Merge pull request #56 from pilvepank/feat-chip8_debugger
 - **2024-01-30** `[174]`: feat(chip8_assembler): declare copybook schema LOADER-STATE.cpy
 - **2024-02-03** `[175]`: feat(chip8_assembler): implement chip8_assembler.cbl operational routines
+- **2024-02-06** `[176]`: test(chip8_assembler): add automated unit tests in chip8_loader_test.cbl
