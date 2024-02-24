@@ -181,3 +181,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-02-13** `[178]`: feat(chip8_rom_loader): declare copybook schema KEYPAD-MAP.cpy
 - **2024-02-17** `[179]`: feat(chip8_rom_loader): implement chip8_rom_loader.cbl operational routines
 - **2024-02-20** `[180]`: test(chip8_rom_loader): add automated unit tests in chip8_keypad_test.cbl
+- **2024-02-24** `[181]`: Merge pull request #59 from pilvepank/feat-chip8_rom_loader
