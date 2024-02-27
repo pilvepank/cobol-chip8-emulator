@@ -182,3 +182,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-02-17** `[179]`: feat(chip8_rom_loader): implement chip8_rom_loader.cbl operational routines
 - **2024-02-20** `[180]`: test(chip8_rom_loader): add automated unit tests in chip8_keypad_test.cbl
 - **2024-02-24** `[181]`: Merge pull request #59 from pilvepank/feat-chip8_rom_loader
+- **2024-02-27** `[182]`: feat(chip8_keypad): declare copybook schema PROFILER-STATE.cpy
