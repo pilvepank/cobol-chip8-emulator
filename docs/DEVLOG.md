@@ -188,3 +188,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-03-09** `[185]`: Merge pull request #60 from pilvepank/feat-chip8_keypad
 - **2024-03-12** `[186]`: perf(bench): add high-throughput synthetic stress benchmark suite
 - **2024-03-16** `[187]`: build: update Windows build automation script to compile all submodules
+- **2024-03-19** `[188]`: build: update Windows execution batch to run all test harnesses
