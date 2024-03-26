@@ -1,0 +1,27 @@
+name: CHIP-8 Virtual Machine CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install GnuCOBOL
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gnucobol
+
+      - name: Build Core Engine
+        run: |
+          cobc -free -x -Wall -Icopybooks src/chip8_core.cbl -o chip8_core
+
+      - name: Execute Automated Test Suite
+        run: |
+          cobc -free -x -Wall -Icopybooks tests/chip8_test.cbl -o chip8_test && ./chip8_test
