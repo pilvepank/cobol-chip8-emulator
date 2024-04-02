@@ -1,3 +1,3 @@
-# CHIP-8 Virtual Machine Architecture Specification
+# CHIP-8 Virtual Machine Architecture Manual
 
-High-performance COBOL engine designed for mission-critical execution.
+Complete system blueprints.
